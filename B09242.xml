@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Something offered to the consideration of friends, with respect to the present difference about some things brought into the church of late, as for instance, the limit of a years time in the case of marriage, where the husband or wife is buried; as also that order that all persons that intend marriage, shall lay their intention before a womans meeting, distinct and apart from the men, &amp;c. which we forbear further to set forth, or particularly to speak to, at this time, because we would not make the breach wider than it must needs be, so shall content our selves in offering something in general, at present.</title>
+            <author>Hogg, John, fl. 1675-1698.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09242</idno>
+            <idno type="OCLC"> 80922802</idno>
+            <idno type="STC">Wing H2369</idno>
+            <idno type="STC">ESTC R221383</idno>
+            <idno type="EEBO-CITATION">80922802</idno>
+            <idno type="OCLC">ocm 80922802</idno>
+            <idno type="VID">191885</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09242)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 191885)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2894:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Something offered to the consideration of friends, with respect to the present difference about some things brought into the church of late, as for instance, the limit of a years time in the case of marriage, where the husband or wife is buried; as also that order that all persons that intend marriage, shall lay their intention before a womans meeting, distinct and apart from the men, &amp;c. which we forbear further to set forth, or particularly to speak to, at this time, because we would not make the breach wider than it must needs be, so shall content our selves in offering something in general, at present.</title>
+                  <author>Hogg, John, fl. 1675-1698.</author>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1675]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed at end: John Hogg.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Imperfect: cropped with slight loss of print.</note>
+                  <note>Reproduction of original in the Haverford College Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Customs and practices --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:191885:1"/>
+            <pb facs="tcp:191885:2"/>
+            <pb facs="tcp:191885:3"/>
+            <pb facs="tcp:191885:4" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:191885:4" rendition="simple:additions"/>
+            <head>
+               <hi>Something offered to the conſideration of</hi> Friends, <hi>with reſpect to the preſent difference about ſome things brought into the</hi> Church <hi>of late, As for inſtance, the limit of a years time in the caſe of</hi> Marriage, <hi>where the Husband or Wife is buried; as alſo that order that all perſons that intend Marriage, ſhall lay their intention before a Womans meeting, diſtinct and apart from the Men,</hi> &amp;c. <hi>which we forbear further to ſet forth, or particularly to ſpeak to, at this time, becauſe we would not make the breach wider than it muſt needs be, ſo ſhall content our ſelves in offer<g ref="char:EOLhyphen"/>ing ſomething in general, at preſent.</hi>
+            </head>
+            <p>FIRST, either we had what was eſſential to true Religion and a true Church State, with reſpect to outward things, before the things in queſtion was brought in, or we had not; if we had not, then we muſt want true Religion, <hi>&amp;c.</hi> till thoſe things was brought in, which we hope none will affirm: But if we had what was eſſential to true Religion, <hi>&amp;c.</hi> before thoſe things was brought in, about which the difference is, as we believe we had, it muſt follow, that thoſe things are but circumſtantial things, and circum<g ref="char:EOLhyphen"/>ſtantial things at beſt, if good, are but accidentally good, and that is as perſons are perſwaded of them, and not otherwiſe. Now on this account conſider what reaſon or true ground there can be, that perſons that are found conformable to ancient principles and practi<g ref="char:EOLhyphen"/>ces, by which they were accepted by thoſe of the ſame Perſwaſion,
+<pb n="2" facs="tcp:191885:5" rendition="simple:additions"/>
+to be profeſſors of the truth in the way of Holineſs and Purity, ſhould be eſteemed otherwiſe now, in any reſpect by thoſe of the ſame Society, only becauſe they conform not to ſome things which may be termed noval, by being brought into the Church of late, and at beſt but circumſtantial things, relating more to the manner of do<g ref="char:EOLhyphen"/>ing a thing than the thing it ſelf, being ſo far from being eſſential to Righteouſneſs, as that they are not eſſential to the profeſſion we are under, it being plain that we were eſteemed by the World as <hi>Quakers,</hi> and accepted of by Friends without them: Conſider therefore if it be not an act of great incharity to unchriſtian, or in reſpect to judge perſons unfaithful, that conform not to thoſe leſſer things, whilſt it doth not appear but they are faithfull in the greater; for what charitable man can ſuppoſe, that any ſhould wilfully or obſtinately deny the leſſer, whilſt he performs the greater, through the force of truth upon his mind<hi>:</hi> thus would it not be more Cha<g ref="char:EOLhyphen"/>rity, more Truth-like, more tending to Peace, to keep Commu<g ref="char:EOLhyphen"/>nion with ſuch notwithſtanding their diſſent, by believing and re<g ref="char:EOLhyphen"/>ceiving ſuch ſo ſcrupling, as really Conſcientious in the things they ſcruple, as in the things they do perform.</p>
+            <p>But if it ſhall be objected that this allows various practices in the Church, and therefore not to be ſuffered; for anſwer, let ſuch con<g ref="char:EOLhyphen"/>ſider whether by profeſſing to adhere to the ſpirit of truth, they do not take themſelves to be of that univerſal Church, of which Chriſt <hi>Jeſus</hi> our Lord is head; if they do, then whether that Church do not take in all that fear God and work Righteouſneſs, now as well as it did in the Apoſtles time; if it do, then whether it be to be ſuppoſed, much leſs aſſerted, that all thoſe were of one mind; with reſpect to practice in circumſtantial things; and if that be not to be aſſerted, then whether we can be truly like unto that Church, (ſeeing we conceive as the whole is, ſo ought every part to be) whilſt there wants Demonſtration of it in our practices, with re<g ref="char:EOLhyphen"/>ſpect to Communion with thoſe that agree with us in eſſential things, becauſe of ſome differences in circumſtantial and of our own making too, wherein we go from them, and not they from us; for this we may be ſure, if the univerſal Church take in all that fear God and work Righteouſneſs in every Nation, it ought to do it in
+<pb n="3" facs="tcp:191885:5"/>
+one Nation, and doubtleſs will, when the judgment of truth prevails above opinion: For to be ſure every one that is born o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> God, and abides in his Counſel, owns what the Spirit of God owns.</p>
+            <p>But if this pleaſe not, let us know upon what foot thoſe things about which the differences is, are brought in, that is, whether they are brought in as terms of Communion or not; for if they are not brought in as terms of Communion, there doth not to us appear much reaſon we ſhould differ about them, becauſe if not made terms of communion, they can at moſt but be recommended, and ſo freely left for every one to practice as they are perſwaded, but they ſeem not thus to be left<hi>:</hi> if therefore they are brought in as terms of Communion, then we deſire to know where that power reſts, that can make circumſtantial things terms of Communion, if it be alledged that this power reſt in the Church, then we conceive by Church we are to underſtand either the whole Society, or ſome particular aſſembly, not the whole Society; Firſt, becauſe they can<g ref="char:EOLhyphen"/>not come together; and if they could, no act could be made to oblige all without the conſent of all, and where all condeſcends there is none left to diſſent; but there is that diſſent, ſo that we are not to underſtand it here<hi>:</hi> Therefore if it reſts in a Church, it muſt be in ſome particular Aſſembly, for that in a ſenſe may bear that name; now if it reſt in any Aſſembly, we deſire to know which it is, this cannot fairly be denyed, becauſe every true power ſprings from a true ground, which as well may be known as the power which ſprings from it, therefore we deſire it may be ſet forth; and in the mean time we conceive if any ſuch power reſt in any Aſſembly, they muſt receive it either from Men or from God; if from Men, that is, from thoſe of the ſame Society, it muſt be given to them either in our firſt coming forth, and imbodying as a peo<g ref="char:EOLhyphen"/>ple, or at ſome time ſince; not in our firſt moming forth, for then we did not as many before us had done, chuſe Elders, Paſto rs and Teachers, <hi>&amp;c.</hi> and ſo form a body that might be called a Church to govern us, and to determine what ſhould be matter of Faith for us, for the weakneſs of ſuch things we clearly ſaw, and therefore was directed to know the Lord for our ſelves, on which account it was we were not to believe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:191885:6"/>
+any ſaid, becauſe they ſaid it, but only becauſe we knew what they ſaid was true, that ſo our hope and faith might not ſtand in Men, but in the power of God; thus in our coming forth there doth appear no footſteps of any ſuch Authority, therefore if it was given at any time ſince, we deſire to know when it was done, and in the mean time offer, if any ſuch thing be done, we look upon it out of truth, for no man can know aforehand whether that thing ſhall be true or falſe that reſteth in others, till it is brought forth, and no man that fears God is obliged to practice any thing, but what he believes is true, and where no man is to practice any thing but what he believe is true, it follows there muſt a choice remain in every thing that is brought forth to be practiſed, according to that underſtanding which the Lord giveth, and where a choice remains, no ſuch power can be given to any aſſemblies, becauſe a power to command, and a choice to obey are inconſiſtent<hi>:</hi> Thus we cannot find that any ſuch power was or could be given at firſt, or at any time ſince. But if on the other hand, any aſſembly ſhall ſay that they have received this Power from God, we ſay, that is to be conſidered of, becauſe the pow<g ref="char:EOLhyphen"/>er of God is conſiſtant with it ſelf, now he doth not require a duty of any that fears him; but firſt, he convinceth them of it to be their duty: If therefore it be our duty to receive what others ſay is true, becauſe they ſay it, and not becauſe we know it to be true, then we muſt be convinced that this Authority is Divine, on which we muſt thus depend; but this we cannot be, but by a divine way, then that muſt be either by the Spirit of Truth in our own hearts, or otherwiſe by ſome ſignal Authority of the Truth and Power of God, which ſuch have to convince; in both caſes our Underſtand<g ref="char:EOLhyphen"/>ing is concerned in our Obedience and Duty, but neither of thoſe ways that we know of are apparent, therefore to preſs Obedience under the notion of Truth, where we know it not, implys a kind of contradiction; for its aſmuch as to ſay, we are to go out of the Truth to ſerve it, for ſo is blind Obedience, and this is the high Road into it<hi>:</hi> But if any ſhall ſay, That this Authority reſteth not in Men, but in the Spirit of Truth, then we ſay, it neither reſteth in this nor in that Aſſembly as a ſtanding Ordinance, but is even as the wind that
+<pb n="5" facs="tcp:191885:6"/>
+bloweth where it liſteth, ſo is every one that in this matter hath the Word of the Lord; for though they know from whence it co<g ref="char:EOLhyphen"/>meth, yet none knows when, nor unto whom it ſhall come, there<g ref="char:EOLhyphen"/>fore the ſubmiſſion is not to what this Man, nor that Aſſembly ſaith, becauſe they ſay it, but becauſe we know that what they ſay is true, on which account it's plain, one may have as much Authority over others that fear God as an Aſſembly, for the firſt may be Truth, and the latter can be no more; that is to ſay, it cannot be more Truth, becauſe many ſay it, for that is to allow degrees of compariſon on the ſide of Truth, which is not to be admitted. Thus we cannot find that any Aſſembly hath any power either from Man or God, to make circumſtantial things terms of Communion, or to bring noval things into the Church upon any other foot than Recommendation, which muſt be fairly left for every one to practice as they are per<g ref="char:EOLhyphen"/>ſwaded, ſo that the notion of Church Authority to inforce noval things upon ſuch as fear God, hath nothing in it of weight or Service, for we are as much obliged to receive the Truth from one, as from many, and no more to heed many than one; when what they offer occurs not with our underſtanding, for the ſubmiſſion is not unto Men, but unto the Truth, and the Truth is received according to the under<g ref="char:EOLhyphen"/>ſtanding, and not contrary to it; and where according to Truth our underſtanding is concerned in our Duty and Obedience, there is no abſolute or unaccountable authority can reſt in any Aſſembly under the notion of Church Order and Government; And that our under<g ref="char:EOLhyphen"/>ſtanding is concerned, in our Obedience hath been all along aſſerted, for Inſtance, <hi>William Pen</hi> in his Addreſs to Proteſtants, where the caſe is ſufficiently ſpoken to<hi>:</hi> But having come to this concluſion, perhaps ſome may object that this is to deſtroy Diſcipline, and over<g ref="char:EOLhyphen"/>turn Church Government, which we conceive is a great miſtake ſo far as Church Government is conſiſtant with Truth and the good of human Society; for as <hi>William Pen</hi> tells us in his Addreſs to Prote<g ref="char:EOLhyphen"/>ſtants, that Church Government ſuppoſeth firſt a Church, ſo we ſay that Church implys a Society of people agreeing in certain princi<g ref="char:EOLhyphen"/>ples and practices, now thoſe ſeem to us to be the Foundation Rule for Government or Diſcipline; for if any go contrary to what they have given up their names to believe<g ref="char:punc">▪</g> and practice, or if any
+<pb n="6" facs="tcp:191885:7"/>
+go into that which is evil and ſcandalous, or indeavour to lay a new Foundation, or Preach a new Doctrine which we conceive is not chargeable: upon thoſe that are diſſatisfied, ſuch may be dealt with, becauſe there is certain Rules to proceed by; and here it is, that an Aſſembly may perhaps have more power than a particular perſon, which is with reſpect to ſuch that are diſorderly, who perhaps will hear the voice of many, when they will not do it for one; but this is nothing to ſuch as fear God, and are conform to Ancient Princi<g ref="char:EOLhyphen"/>ples and Practices: But if any ſhall object, that though it be true, that ſuch as truly fear God is not to be impoſed upon beyond that underſtanding which he giveth, yet thoſe that are diſſatisfied are ſuch as do not fear God; to this muſt ſay, the objection is very unchari<g ref="char:EOLhyphen"/>table, and is ſo far from bringing Peace, that it will help to eſtabliſh Diviſion, and that on a certain Foundation, becauſe ſuch as are con<g ref="char:EOLhyphen"/>ſcientiouſly diſſatisfied, of which we are ſure there is, muſt needs know that the Judgment is falſe, and every one knows that a falſe Judg<g ref="char:EOLhyphen"/>ment cannot be brought forth and ſtood in, but by a wrong Spirit; this is to make the difference eſſential, which before was but circum<g ref="char:EOLhyphen"/>ſtantial, for to be ſure we are as much commanded to avoid the communion with evil and falſe Spirits, as forbidden to have fellow<g ref="char:EOLhyphen"/>ſhip with the works thereof, the former being the cauſe, the other but the effect; it is true the effect is to be avoided, but is more ex<g ref="char:EOLhyphen"/>cellent to take away the cauſe.</p>
+            <p>Theſe things are offered ſincerely for a good underſtanding, that ſo Peace may be eſtabliſhed according to Truth, for Peace without Truth is but an ill Commmunion, and that Foundation, to wit, conviction and perſwaſion on which we builded our Seperation from others, may ſtill not only remain firm, but be freely allowed as a Sanctuary againſt all Innovation, which is the hearty deſire of</p>
+            <closer>
+               <signed>John Hogg.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:191885:7"/>
+            <pb facs="tcp:191885:8"/>
+            <pb facs="tcp:191885:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
